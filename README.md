@@ -5,22 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth7192" alt="parth7192" /></a> </p>
 
-
-import 'dev-community:india/flutter-devs';
-
-class Desc extends SoftwareDeveloper {
-  final String name = "Smit Chitroda";
-  dynamic title = "Flutter Developper";
-  dynamic location = "Gujarat, India";
-
-  @override
-  List<Skills> getSkills() {    
-    List<Skills> languages  = ['C', 'C++', 'Dart', 'PHP'];
-    return languages;   
-  }
-}
-
-
 - 🔭 I’m currently working on **Flutter Application Development**
 
 - 🌱 I’m currently learning **Dart Programming Languages in Flutter**
