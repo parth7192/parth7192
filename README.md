@@ -1,5 +1,5 @@
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=parth7192&label=Profile%20Visitor's%20Count&color=9&icon=6&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=parth7192&label=Profile%20Visitor's%20Count&color=12&icon=1&pretty=true" />
 </a>
 
 <h1 align="center">Hi 👋, I'm Parth Vora</h1> 
