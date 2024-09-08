@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth7192&label=Profile%20Visitor's%20Count&color=33372C&style=flat" alt="parth7192" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth7192&label=Profile%20Visitor's%20Count&color=1230AE&style=flat" alt="parth7192" /> </p>
 
 <h1 align="center">Hi 👋, I'm Parth Vora</h1> 
 <h3 align="center">A passionate Flutter developer from India</h3>
