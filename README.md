@@ -1,6 +1,4 @@
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=parth7192&label=Profile%20Visitor's%20Count&color=12&icon=1&pretty=true" />
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth7192&label=Profile%20Visitor's%20Count&color=33372C&style=flat" alt="parth7192" /> </p>
 
 <h1 align="center">Hi 👋, I'm Parth Vora</h1> 
 <h3 align="center">A passionate Flutter developer from India</h3>
